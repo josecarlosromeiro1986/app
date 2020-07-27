@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "App Faccar",
+    "slug": "faccar",
     "platforms": [
-      "ios",
+     
       "android",
       "web"
     ],
@@ -20,9 +20,6 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
+    ]
   }
 }

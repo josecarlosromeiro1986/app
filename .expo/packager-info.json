@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3176,
+  "expoServerNgrokUrl": "https://ha-kvw.anonymous.app.exp.direct",
+  "packagerNgrokUrl": "https://packager.ha-kvw.anonymous.app.exp.direct",
+  "ngrokPid": 9528,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
